@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Response>
   <Say voice="alice">
-      Hi Stefano Colombo! We've just implemented also the phone call for the Crisis Management Demo. Do you like it? Bye bye.
+      Hello, a new crisis is open. Please connect to the U R L provided in the text message or e-mail.
   </Say>
 </Response>
