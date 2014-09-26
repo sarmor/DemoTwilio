@@ -1,10 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Response>
   <Say voice="alice">
-    Hello! this is my message
-  </Say>
-  <Pause length="1"/>
-  <Say voice="alice">
-    Ciao! questo è il mio messaggio
+    Hello, a new crisis is open. Please connect to the U R L provided in the text message or e-mail.
   </Say>
 </Response>
